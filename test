@@ -1,2 +1,3 @@
 echo "Hi This is Dhanesh"
 echo "Im triggering the jenkins job automatically"
+echo "POLE SCM Trigger"
